@@ -7,7 +7,7 @@
 
 Este projeto é um site estático que apresenta móveis customizados em ambientes exclusivos e únicos. É uma demonstração visual dos móveis e serviços oferecidos, ideal para empresas ou designers de interiores que desejam mostrar seu trabalho online.
 
-![Imagem do página inicial do projeto](assets\XR-Projeto01.png)
+![Imagem do página inicial do projeto](./assets/XR-Projeto01.png)
 
 ## :exclamation: Pré-requisitos
 
